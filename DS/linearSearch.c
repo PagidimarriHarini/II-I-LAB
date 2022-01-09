@@ -1,6 +1,5 @@
 #include <stdio.h>
 int linearSearch(int[],int,int);
-
 int main() {
 	int n,key;
 	printf("Enter the number of elements: ");
