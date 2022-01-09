@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 void selectionsort(int a[], int n);
-
 int main(){
 	int i,n;
 	printf("Enter number of elemets of array: ");
